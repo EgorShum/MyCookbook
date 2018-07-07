@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup   # Для навигации по HTML
 import requests                 # Для отправки запросов на сайты
 from io import BytesIO          # Input output
 from PIL import Image           # Работа с картинками
-import os                       # Для проверки директорий и файлов
+import os                       # Для проверки директорий и файловф
 
 def StartSearch():
     search = input("Search for: ")
