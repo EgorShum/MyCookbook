@@ -1,2 +1,2 @@
 # MyCookbook
-My cookbook
+My cookbook for python programming
